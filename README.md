@@ -1,4 +1,5 @@
 This project is to implement RESTful API using Express.js, and validate with express-validator.
+Testing by using Postman.
 
 Get :
 ![](images/get.PNG)
